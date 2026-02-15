@@ -13,5 +13,5 @@ Petit jeu réalisé en python il y a quelques années pour m'entrainer.
 
 ## Remarques :
 
-Ce projet est assez ancien est a été réalisé avant d'avoir les bases de la programmation orientée objet
+Ce projet est assez ancien et a été réalisé avant d'avoir les bases de la programmation orientée objet.
 Il m'a surtout permis d'apprendre des notions utiles dans le développement d'un jeu vidéo comme la gestion des collisions, des animations etc ...
